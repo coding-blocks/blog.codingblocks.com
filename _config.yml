@@ -1,11 +1,11 @@
 # SITE CONFIGURATION
-baseurl: "/type-theme"
-url: "https://rohanchandra.github.io/"
+baseurl: "/"
+url: "https://blog.codingblocks.xyz/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Type Theme
+  title: Coding Blocks Blog
   avatar: avatar.png
   gravatar: # Email MD5 hash
   description: "A website with blog posts and pages" # used by search engines
@@ -25,9 +25,9 @@ theme:
   behance:
   bitbucket:
   dribbble:
-  facebook:
+  facebook: "codingblocksindia"
   flickr:
-  github: "rohanchandra/type-theme"
+  github: "coding-blocks"
   google_plus:
   instagram:
   linkedin:  # Full URL
@@ -37,7 +37,7 @@ theme:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "twitter"
+  twitter: "codingblocksIN"
   wordpress:
   youtube:
 
