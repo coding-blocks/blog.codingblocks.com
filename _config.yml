@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/"
+#baseurl: "/"
 url: "https://blog.codingblocks.xyz/"
 
 # THEME-SPECIFIC CONFIGURATION
