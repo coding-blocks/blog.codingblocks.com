@@ -12,9 +12,11 @@ theme:
 
   # Header and footer text
   header_text: >
-     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    <blockquote>
+     <p> “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”</p>
 
-     <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
+     <footer>- Martin Fowler</footer>
+     </blockquote>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
