@@ -3,7 +3,7 @@
 url: "https://blog.codingblocks.xyz/"
 
 # THEME-SPECIFIC CONFIGURATION
-theme:
+theme_settings:
   # Meta
   title: Coding Blocks Blog
   avatar: avatar.png
