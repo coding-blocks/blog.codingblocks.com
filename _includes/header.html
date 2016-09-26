@@ -19,7 +19,11 @@
 			{% if page.title and page.hide != true %}
 			<li>
 				<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">
+					{% if page.short_title %}
+					{{ page.short_title }}
+					{% else %}
 					{{ page.title }}
+					{% endif %}
 				</a>
 			</li>
 			{% endif %}
