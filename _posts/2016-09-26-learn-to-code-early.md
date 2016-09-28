@@ -29,8 +29,8 @@ The present structure of computer education in Universities is not aligned to th
 Coding Blocks is my brainchild, started in 2014. It is a learning center where we teach fundamentals of programming to college students. The courses here are designed to help students with their curriculum and give them the feel of the IT industry. In the last two years, we have already helped more than 2000 students achieve their goal and made them the darling of the industry. 
 
 ### My sister is 12, can she also code?
-I have been coding since Class IX and then continued coding in IIT Delhi. I am part of the growing community which thinks that children should start coding early (check this video where industry stalwarts emphasise on the same fact). (Video: https://www.youtube.com/watch?v=nKIu9yen5nc)
-
+I have been coding since Class IX and then continued coding in IIT Delhi. I am part of the growing community which thinks that children should start coding early (check this video where industry stalwarts emphasise on the same fact). 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nKIu9yen5nc" frameborder="0" allowfullscreen></iframe>
 
 ### Come join us
 We promise to carve out a proper learning path for you. If you are good in logical thinking, can convert your logic into code, know Object Oriented programming, Data Structures and Algorithms we will move you to the next level where you will learn Industry level courses like web development, Android Apps, iOS, machine learning etc. But if you are not so good in coding, don’t fret, because we will analyse the level where you are currently and then advise you on the course that suits you best. At Coding Blocks, we offer the following courses:
