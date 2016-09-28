@@ -34,6 +34,7 @@ I have been coding since Class IX and then continued coding in IIT Delhi. I am p
 
 ### Come join us
 We promise to carve out a proper learning path for you. If you are good in logical thinking, can convert your logic into code, know Object Oriented programming, Data Structures and Algorithms we will move you to the next level where you will learn Industry level courses like web development, Android Apps, iOS, machine learning etc. But if you are not so good in coding, don’t fret, because we will analyse the level where you are currently and then advise you on the course that suits you best. At Coding Blocks, we offer the following courses:
+
 * Launchpad (C++ Programming Fundamentals)
 * Crux (Java Programming Fundamentals)
 * Pandora (Android App Development)
