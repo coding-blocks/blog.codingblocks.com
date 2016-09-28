@@ -4,7 +4,7 @@ title: "Learn to Code Early"
 description: 
 headline: 
 modified: 2016-09-26 20:33:22 +0530
-category: personal
+category: message
 tags: []
 feature-img: 
 mathjax: 
