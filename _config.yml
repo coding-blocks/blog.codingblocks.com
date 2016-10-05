@@ -44,7 +44,7 @@ theme_settings:
   youtube:
 
   # Scripts
-  google_analytics: "UA-58431978-1"
+  google_analytics: "UA-83327907-2"
   disqus_shortname:
   katex: true # Enable if using math markup
 
