@@ -1,21 +1,19 @@
 ---
 layout: post
 title: "Learn to Code Early"
-description: 
-headline: 
+description:
+headline:
 modified: 2016-09-26 20:33:22 +0530
 category: message
 tags: []
-feature-img: 
-mathjax: 
-chart: 
+feature-img:
+mathjax:
+chart:
+author: 'Manmohan Gupta'
 comments: true
 featured: false
 ---
-Dear Student,
- 
-
-
+Dear Student,  
 My name is Manmohan Gupta - a coder, entrepreneur, co-founder at Nagarro (a custom business consulting and technology services company) and Vidyamandir Classes. I thought this would be the right time to share my experience of the IT industry and the world of coding with you.  
 
 ### Is programming here to stay?
@@ -29,7 +27,7 @@ The present structure of computer education in Universities is not aligned to th
 Coding Blocks is my brainchild, started in 2014. It is a learning center where we teach fundamentals of programming to college students. The courses here are designed to help students with their curriculum and give them the feel of the IT industry. In the last two years, we have already helped more than 2000 students achieve their goal and made them the darling of the industry. 
 
 ### My sister is 12, can she also code?
-I have been coding since Class IX and then continued coding in IIT Delhi. I am part of the growing community which thinks that children should start coding early (check this video where industry stalwarts emphasise on the same fact). 
+I have been coding since Class IX and then continued coding in IIT Delhi. I am part of the growing community which thinks that children should start coding early (check this video where industry stalwarts emphasise on the same fact).
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nKIu9yen5nc" frameborder="0" allowfullscreen></iframe>
 
 ### Come join us
