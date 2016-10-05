@@ -14,8 +14,6 @@ featured: false
 author: 'Arnav Gupta'
 ---
 
-# Installing and setting up MySQL
-
 This page contains the common code snippets used to installing and setup MySQL server initially on your personal machine.
 
 ## Mac
