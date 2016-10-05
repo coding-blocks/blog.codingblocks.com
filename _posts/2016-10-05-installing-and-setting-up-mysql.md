@@ -38,19 +38,19 @@ Figure out yourselves :P
 
 ### Creating new database
 
-```mysql
-create database newdatabase;
+```sql
+create database newdatabase;  
 ```
 
 ### Creating new user
 
-```mysql
-create user 'newuser'@'%' identified by 'newpassword';
+```sql
+create user 'newuser'@'%' identified by 'newpassword';  
 ```
 
 
 Now exit and login with new user
 
-```bash
+```shell
 mysql -u newuser -p
 ```

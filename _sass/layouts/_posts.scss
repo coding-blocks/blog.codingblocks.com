@@ -81,3 +81,15 @@ header {
   }
 }
 
+.post-list .entry-date {
+    display: none;
+    font-size: 14px;
+    text-transform: uppercase;
+    float: right;
+}
+
+@media only screen and (min-width:48em) {
+    .post-list .entry-date {
+        display: inline;
+    }
+}

@@ -51,3 +51,13 @@
     }
   }
 }
+.page-link {
+  padding: 3px 6px;
+  border: $header-link-color solid 1px;
+  border-radius: 5px;
+}
+
+.page-link:hover {
+  background-color: $header-link-color;
+  color: white;
+}
