@@ -17,16 +17,17 @@ author: 'Arnav Gupta'
 This page contains the common code snippets used to installing and setup MySQL server initially on your personal machine.
 
 ## Mac
-If you have homebrew
-```
-brew install mysql
-mysql.server restart
+If you have homebrew  
+
+```shell
+brew install mysql  
+mysql.server restart  
 ```
 
 ## Linux
 
-```
-sudo apt-get install mysql-server
+```shell
+sudo apt-get install mysql-server  
 ```
 
 ## Windows
