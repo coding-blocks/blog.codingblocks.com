@@ -43,4 +43,4 @@ Now when you type `jkey` and press tab, it creates
 public static final String | = "|"
 ```
 
-The pipes '\|' represent the cursor position. When you start typing in lowercase for example `my_key_one`, automatically the variable name updates in uppercase `MY_KEY_ONE`. 
+The pipes `|` represent the cursor position. When you start typing in lowercase for example `my_key_one`, automatically the variable name updates in uppercase `MY_KEY_ONE`. 
