@@ -31,7 +31,6 @@ header {
 }
 .feature-image {
   padding: 0%;
-  background-position: center;
   .post-link {
     color: $feature-image-text-color;
   }
@@ -39,6 +38,7 @@ header {
     color: $feature-image-text-color;
     background-size: $feature-image-size;
     margin-bottom: 0;
+    background-position: center;
     background-color: $feature-image-tint-color;
     background-blend-mode: multiply;
     padding: $padding-large/2.5 $padding-large;
