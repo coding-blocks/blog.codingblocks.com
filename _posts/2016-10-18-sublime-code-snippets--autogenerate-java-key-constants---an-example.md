@@ -4,7 +4,7 @@ title: "Sublime Code Snippets : Autogenerate Java key constants - an example"
 description: 
 headline: 
 modified: 2016-10-18 08:08:20 +0530
-category: personal
+category: ['Development Tips']
 tags: []
 feature-img: 
 mathjax: 
