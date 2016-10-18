@@ -9,6 +9,7 @@ tags: [android, preferences]
 feature-img: 
 mathjax: 
 chart: 
+author: 'Arnav Gupta'
 comments: true
 featured: false
 ---
