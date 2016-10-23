@@ -7,7 +7,7 @@ modified: ''
 categories: [Android, Web]
 tags: [Firebase, realtime, database, programming]
 modified: 2016-10-24 02:21:39 +0530
-feature-img:
+feature-img: 'img/post/firebase/firebase.png'
 mathjax:
 chart:
 comments: true
