@@ -14,9 +14,6 @@ comments: true
 featured: false
 ---
 
-> Originally published on [my blog](http://blog.championswimmer.in/2016/10/don-t-jump-onto-the-firebase-bandwagon-yet)
-
-
 **Firebase** is the rage. It's the talk of the town, and every frontend conference, be it _Web_ or _Mobile_ can't stop talking about [Firebase](http://firebase.google.com).
 
 But hold your horses a bit out there. Now I am not saying that do not use Firebase. I use Firebase extensively. At [CodingBlocks](http://codingblocks.com) I make it a point to teach using Firebase to the students of the _Android_ programme. But all said and done, Firebase has a **specific** use case. And we cannot overlook that.
@@ -89,3 +86,8 @@ The fact that Firebase is waaay too easy to plug in to your mobile apps (as much
 ---
 
 And while all this makes good business sense for Google, it probably doesn't for you. So before you jump into the Firebase bandwagon like crazy, do your bit of math.
+
+---
+
+
+> Originally published on [blog.championswimmer.in](http://blog.championswimmer.in/2016/10/don-t-jump-onto-the-firebase-bandwagon-yet)
