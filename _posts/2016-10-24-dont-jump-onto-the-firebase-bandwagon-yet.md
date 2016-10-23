@@ -10,6 +10,7 @@ modified: 2016-10-24 02:21:39 +0530
 feature-img: 'img/post/firebase/firebase.png'
 mathjax:
 chart:
+author: 'Arnav Gupta'
 comments: true
 featured: false
 ---
