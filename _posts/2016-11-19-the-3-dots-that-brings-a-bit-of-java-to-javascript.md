@@ -8,6 +8,7 @@ category: [Javascript, "Development tips", Web]
 tags: [javascript, es6, varargs, java, ecmascript]
 feature-img: 
 mathjax: 
+author: "Arnav Gupta"
 chart: 
 comments: true
 featured: false
