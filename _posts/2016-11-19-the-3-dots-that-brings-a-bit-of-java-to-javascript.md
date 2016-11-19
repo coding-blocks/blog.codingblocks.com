@@ -18,6 +18,7 @@ Everyone who has used Java or other languages that support _varargs_ (or 'variab
 would know what a big boon that is. 
 
 Consider you have a function that creates file path strings. (This is basically what `path.join()` in Javascript does)
+
 ```javascript
 function pathJoin(folder1, folder2, folder3) {
     return "/" + folder1 + "/" + folder2 + "/" + folder3 + "/";
@@ -45,9 +46,9 @@ public static int sumAll(Integer... numbers) {
     return sum;
 }
 
-int sumOdd = sumAll(1,3,5,7,9);
-int sumEven = sumAll(2,4,6,8);
-int sumZero = sumAll();
+int sumOdd = sumAll(1,3,5,7,9); // 25
+int sumEven = sumAll(2,4,6,8); // 20
+int sumZero = sumAll(); // 0
 ```
 
 So basically we are sending in 3 or 4 (or even 0) seperate variables to the function `sumAll`
