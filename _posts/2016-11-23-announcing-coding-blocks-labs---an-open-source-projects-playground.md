@@ -40,6 +40,7 @@ of our own and want to make it a part of CB Labs, you are more than welcome.
 ### Awesome, what are the projects ?
 
 To begin with there are a few projects like -   
+
 - **Question of the Day**
    - **Webapp** : A an admin dashboard where people can register and login.
    Those who have admin access can add new questions.
