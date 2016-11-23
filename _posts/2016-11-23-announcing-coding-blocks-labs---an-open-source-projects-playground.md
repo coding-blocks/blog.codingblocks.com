@@ -26,7 +26,8 @@ To both, be able to have a platform to reconnect with our former students, and i
 promote and foster open source development projects, we are starting off a tiny effort called
 **Coding Blocks Labs**.
 
-## Coding Blocks Labs
+## Coding Blocks Labs   
+
 ### So, what is it ?
 CB Labs is nothing but a collection of a handful of open source web and mobile app projects.
 Some of them are tools we at _Coding Blocks_ require and will use ourselves, including some
@@ -54,7 +55,7 @@ To begin with there are a few projects like -
   - Android and Web apps to visualise various algorithms and their data structures
 
 More projects will be made part of CB Labs. Keep an eye out on
-**[labs.codingblocks.xyz](http://lab.codingblocks.xyz)**
+**[lab.codingblocks.xyz](http://lab.codingblocks.xyz)**
 
 ### Knock, knock, how do I get in ?
 As with open source projects, there are usually no _doors_ (or _Windows_, lol).
