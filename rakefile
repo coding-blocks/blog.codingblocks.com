@@ -64,6 +64,7 @@ end
      post.puts "mathjax: "
      post.puts "chart: "
      post.puts "comments: true"
+     post.puts "author: "
      post.puts "---"
    end
 end
