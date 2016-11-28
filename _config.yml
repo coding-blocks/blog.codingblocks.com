@@ -69,6 +69,7 @@ paginate_path: "blog/page:num"
 
 #Pages
 include: ['pages']
+permalink /:year/:title
 
 # BUILD SETTINGS
 #markdown: kramdown
