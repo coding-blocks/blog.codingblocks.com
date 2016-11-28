@@ -4,7 +4,7 @@ title: "Android Protip: Show selected value of ListPreference"
 description: 
 headline: 
 modified: 2016-10-18 08:04:52 +0530
-category: [Android, 'Development Tips']
+category: [Android, "Development Tips"]
 tags: [android, preferences]
 feature-img: 
 mathjax: 

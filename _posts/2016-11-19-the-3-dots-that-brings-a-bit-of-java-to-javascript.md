@@ -4,7 +4,7 @@ title: "The 3 dots that brings a bit of Java to Javascript"
 description: "Rest and Spread in ECMAScript6"
 headline: "The 3 dots that brings a bit of Java to Javascript"
 modified: 2016-11-19 19:57:14 +0530
-category: [Javascript, "Development tips", Web]
+category: [Javascript, "Development Tips", Web]
 tags: [javascript, es6, varargs, java, ecmascript]
 feature-img: 
 mathjax: 
