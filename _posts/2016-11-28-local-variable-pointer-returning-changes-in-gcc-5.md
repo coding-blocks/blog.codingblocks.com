@@ -14,7 +14,7 @@ comments: true
 featured: false
 ---
 
-Returning local variable points from a function is something you should
+Returning local variable pointers from a function is something you should
 **never** do. Because the returned address will exist, but the 
 data inside it will have lost it's scope.
 
@@ -49,14 +49,16 @@ int main() {
 
 Will return this in GCC5   
 ```
-function 0x7fff5e9e18f0
-main 0
+function 0x7fff5e9e18f0  
+
+main 0   
 ```
 
 In earlier versions of GCC (4.9 and below) it used to return this -  
 ```
-function 0x7fff5e9e18f0   
-main  0x7fff5e9e18f0
+function 0x7fff5e9e18f0    
+
+main  0x7fff5e9e18f0  
 ```
 
 TD;DR;
