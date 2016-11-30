@@ -50,14 +50,12 @@ int main() {
 Will return this in GCC5   
 ```
 function 0x7fff5e9e18f0  
-
 main 0   
 ```
 
 In earlier versions of GCC (4.9 and below) it used to return this -  
 ```
 function 0x7fff5e9e18f0    
-
 main  0x7fff5e9e18f0  
 ```
 
