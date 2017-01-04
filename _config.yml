@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 #baseurl: "/"
-url: "https://blog.codingblocks.xyz/"
+url: "http://blog.codingblocks.xyz/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
