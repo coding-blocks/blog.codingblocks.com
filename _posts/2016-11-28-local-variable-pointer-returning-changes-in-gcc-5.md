@@ -59,5 +59,5 @@ function 0x7fff5e9e18f0
 main  0x7fff5e9e18f0  
 ```
 
-TD;DR;
+TL;DR;
 In GCC5.x and above, local variable pointers in a function are returned as `0` to the calling function
