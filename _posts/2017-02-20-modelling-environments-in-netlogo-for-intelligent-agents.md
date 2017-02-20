@@ -7,7 +7,7 @@ modified: 2017-02-20 18:23:30 +0530
 category: "Artificial Intelligence"
 tags: ["artificial intelligence", "machine learning", "netlogo"]
 author: "Sagar Mohan"
-feature-img: 
+feature-img: "img/post/netlogo-ai/rover.jpeg"
 mathjax: 
 chart: 
 comments: true
