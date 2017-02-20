@@ -95,7 +95,7 @@ So there's two main things we need to do here; we need to set the values of the 
 
 The Bellman equation is a way of optimising mathematical expressions and solving decision problems in terms of some initial choices and the value of the remaining decision problems that result from those initial choices.
 
-U(s)=R(s)+γmax∑s'P(s'|s,a)U(s')
+$$ U(s) = R(s)+\gamma max\sum_{s'}  P(s'\mid s,a)U(s') $$
 
 It looks pretty technical. But it's not. I'll let you read about the equation in your own time.
 
