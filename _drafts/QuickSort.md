@@ -71,5 +71,9 @@ For **[visualisation]**(https://visualgo.net/sorting)
 Worst Case Time Complexity : O(n^2)<br>
 Best Case Time Complexity : O(n log n)<br>
 Average Time Complexity : O(n log n)<br>
-Space Complexity : O(n log n)<br>
+Worst Space Complexity : O(n)<br>
+Best Space Complexity : O(log n)<br>
+Average Space Complexity : O(log n)<br>
+
+
 
