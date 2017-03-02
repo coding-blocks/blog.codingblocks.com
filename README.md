@@ -14,7 +14,7 @@ gem install rake
 There is a rake task for this -
 
 ```
-rake new_post["Topid of new post"]
+rake new_post["Topic of new post"]
 ```
 
 ## Creating a new page
