@@ -15,8 +15,6 @@ featured: false
 ---
 
 
-# Working with Google APIs | Part -1
-
 Google is more than a search engine, and we all know that!
 
 Google provides a wide range of web products and services. And Google APIs are an important part of them!
