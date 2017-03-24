@@ -22,6 +22,8 @@ Google provides a wide range of web products and services. And Google APIs are a
 Google provides a plethora of APIs which can be easily integrated with your web or desktop applications.
 
 Several popular APIs provided by Google are:
+
+
 - [Google YouTube API](https://developers.google.com/youtube/v3/)
 - [Google Maps API](https://developers.google.com/places/)
 - [Google Custom Search API](https://developers.google.com/custom-search/)
@@ -33,6 +35,8 @@ Several popular APIs provided by Google are:
 In this tutorial series "Working with Google APIs", we are going to explore several popular APIs provided by Google using Python programming language.
 
 This is the first part of this tutorial series. In this part we are going to learn how to:
+
+
 - Create a new project on Google Cloud Platform.
 - Create credentials to use Google APIs.
 - Exploit YouTube Data API to extract data from YouTube.
@@ -44,6 +48,8 @@ This is the first part of this tutorial series. In this part we are going to lea
 Before you can use any Google API, you must have a **Google API Console project**. A project allows you to manage all the APIs provided by Google.
 
 ### Steps:
+
+
 - Go to the [Google API Console](https://console.developers.google.com/project/_/apiui/apis/library).
 - From the project drop-down, select an existing project , or create a new one by selecting **Create a new project**.
 
@@ -52,26 +58,35 @@ Before you can use any Google API, you must have a **Google API Console project*
 In order to integrate an API with your project, you need to **enable** it.
 
 ### Steps to enable API:
+
+
 - Go to [Google API Console](https://console.cloud.google.com/apis) and select a project from project drop-down.
 - In the sidebar under "API Manager", select "Library". Now, you can see a list of popular APIs. You can also type the name of any API in search bar too.
-- Select the API you want to enable. In this article, we are going to explore **YouTube Data API**. So, in the YouTube APIs section, you can select the YouTube Data API.
+- Select the API you want to enable. In this article, we are going to explore **YouTube Data API**. So, in the YouTube APIs section, 
+  you can select the YouTube Data API.
 - Click on **enable** button.
 
 Now, in order to access enabled API by HTTP requests, you need to set up some credentials.
 
 Google supports two mechanisms for creating credentials or unique identifiers:
-- **OAuth 2.0 client IDs:** For applications that use the OAuth 2.0 protocol to call Google APIs, you can use an OAuth 2.0 client ID to generate an access token. The token contains a unique identifier.
 
-- **API keys:** An API key is a unique identifier that you generate using the console. Using an API key does not require user action or consent. API keys do not grant access to any account information, and are not used for authorization.
+
+- **OAuth 2.0 client IDs:** For applications that use the OAuth 2.0 protocol to call Google APIs, you can use an OAuth 2.0 client ID to generate 
+  an access token. The token contains a unique identifier.
+- **API keys:** An API key is a unique identifier that you generate using the console. Using an API key does not require user action or consent. 
+  API keys do not grant access to any account information, and are not used for authorization.
 
 If you're calling only APIs that do not require user data, such as the Google Custom Search API, Google Maps API, etc. then API keys might be simpler to use than OAuth 2.0 access tokens. However, if your application already uses an OAuth 2.0 access token, then there is no need to generate an API key as well. Google ignores passed API keys if a passed OAuth 2.0 access token is already associated with the corresponding project.
 
 In this part, we are going to use **API keys** only for creating credentials for **YouTube Data API**.
 
 ### Steps to create an API key:
+
+
 - In the sidebar under "API Manager", select **Credentials**.
 - In the Credentials tab, select the **Create credentials** drop-down list, and choose **API key**.
-- Currently, we will use API key to access data through python scripts, we will use an "restriction-less" key. You can impose some restrictions on your API-key by select the "Edit settings" option of the key.
+- Currently, we will use API key to access data through python scripts, we will use an "restriction-less" key. You can impose some restrictions on your 
+  API-key by select the "Edit settings" option of the key.
 
 ## 3. Python scripts to interact with YouTube Data API
 
@@ -80,9 +95,10 @@ Once you have enabled a Google API, you can interact with it via HTTP requests.
 In this part, we are going to play with [**YouTube Data API**](https://developers.google.com/youtube/v3/).
 
 ### Installations:
-- [Python (any version)](https://www.python.org/downloads/)
-- [Google API python client](https://pypi.python.org/pypi/google-api-python-client/)
-  
+
+
+* Python (any version)
+* Google API python client.
   You can install it using a simple pip command:
   ```
   pip install --upgrade google-api-python-client
@@ -188,20 +204,22 @@ A sample video element looks like this:
  'title': 'Coding Blocks'}
  ```
 
-The code is pretty much self-explanatory. However, some important things to ponder upon are:
+The code is pretty much self-explanatory. 
+However, some important things to ponder upon are:
+
+
 - **apiclient** is a python client to interact with the Google APIs in an easier way.
-
-- In order to use an API, you have to build a **resource object** for that API. In above example, we did that using these lines of code:
-    ```
-    youtube = build(YOUTUBE_API_SERVICE_NAME, YOUTUBE_API_VERSION,
+- In order to use an API, you have to build a **resource object** for that API. 
+  In above example, we did that using these lines of code:
+  ```
+  youtube = build(YOUTUBE_API_SERVICE_NAME, YOUTUBE_API_VERSION,
                     developerKey=DEVELOPER_KEY)
-    ```
-    We passed the service name, its version and our Developer(or API) key to **build** method of **apiclient.discovery** module.
-    
-    Note that the **part** parameter specifies a comma-separated list of one or more video/playlist/channel resource properties that the API response will include.
-
-- Now, we use **search.list** method of resource object to fetch search results. You can read more about it [here](https://developers.google.com/youtube/v3/docs/search/list).
-
+  ```
+  We passed the service name, its version and our Developer(or API) key to **build** method of **apiclient.discovery** module.
+  Note that the **part** parameter specifies a comma-separated list of one or more video/playlist/channel resource properties 
+  that the API response will include.
+- Now, we use **search.list** method of resource object to fetch search results. 
+  You can read more about it [here](https://developers.google.com/youtube/v3/docs/search/list).
 - Once search results are available, we fetch required info from the JSON structured object. 
 
 ## Example 2
@@ -333,13 +351,16 @@ Also, one of the comment elements looks like this:
 ``` 
 
 In above code,
-- we used **videos.list** method to retrieve all metadata about the video by simply passing its *id* to the **video_details** function.
 
-- Similarly, we used **commentThreads.list** method to retrieve all metadata about comments under a video by simply passing video id to the **video_comments** function.
+
+- we used **videos.list** method to retrieve all metadata about the video by simply passing its *id* to the **video_details** function.
+- Similarly, we used **commentThreads.list** method to retrieve all metadata about comments under a video by simply passing 
+  video id to the **video_comments** function.
 
 **Note:** The above two examples are intended to get you comfortable with the google-api-python-client and YouTube Data API. You can refer to [YouTube Data API docs](https://developers.google.com/youtube/v3/docs/) to implement more methods which involve fetching data from YouTube.
 
 So far, we have just seen how to **fetch** various types of data from YouTube Data API. 
 In next parts of this tutorial series, we will see how to manipulate the YouTube user data on YouTube using this API.
+
 
 
