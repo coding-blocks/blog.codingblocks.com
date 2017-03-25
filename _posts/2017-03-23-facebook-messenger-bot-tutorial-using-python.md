@@ -6,7 +6,7 @@ headline: "Facebook Messenger Bot Tutorial"
 modified: 2017-03-23 00:05:03 +0530
 category: [web]
 tags: [web, chatbot, messnger]
-feature-img: "img/post/fb-messenger-bot/featured.png"
+feature-img: "img/post/fb-messenger-bot/featured_img.png"
 author: Nikhil Kumar Singh
 mathjax: 
 chart: 
@@ -80,3 +80,32 @@ This video demonstrates how to add replying capability to our messenger bot.
 [**pymessenger**](https://github.com/davidchua/pymessenger) is used for sending replies.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KWFsCT27SBo" frameborder="0" allowfullscreen></iframe>
+
+
+## Video 6
+
+## Heroku setup
+
+This video demonstrates how to set up your project folder for Heroku deployment.
+
+You need to install:
+
+
+- [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)
+- [Git CLI](https://git-scm.com/downloads)
+- gunicorn
+  ```
+  pip install gunicorn
+  ```
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jn3BnljMu9M" frameborder="0" allowfullscreen></iframe>
+
+
+## Video 7
+
+## Heroku deployment
+
+This video demonstrates how to deploy your messenger bot on Heroku.
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KMB0Le9AdoY" frameborder="0" allowfullscreen></iframe>
