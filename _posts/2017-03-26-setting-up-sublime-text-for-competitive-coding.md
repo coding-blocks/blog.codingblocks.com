@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Setting up Sublime Text for Competitive Coding"
-description:"Setting up Sublime Text for Competitive Coding" 
+description: "Setting up Sublime Text for Competitive Coding" 
 headline: "Setting up Sublime Text for Competitive Coding"
-modified: 2017-03-26 13:01:23 +0530
+modified: 2017-03-26 14:40:42 +0530
 category: personal
-tags: [sublime]
-feature-img: "/img/post/sublime-text/featured_img.png"
+tags: []
+feature-img: "img/post/sublime-text/featured_img.png"
 author: Nikhil Kumar Singh
 mathjax: 
 chart: 
