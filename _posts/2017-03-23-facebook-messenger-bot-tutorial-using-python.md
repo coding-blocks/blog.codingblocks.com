@@ -39,7 +39,7 @@ This video demonstrates how to setup the projects folder.
 - You need to have Python 3 or Python 2 installed. (Python 3 is preferred)
 - Install virtualenv
   ```
-  pip install vitualenv
+  pip install virtualenv
   ```
 - Create a virtual environment
 - Install:
