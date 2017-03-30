@@ -4,8 +4,8 @@ title: "Setting up Sublime Text for Competitive Coding"
 description: "Setting up Sublime Text for Competitive Coding" 
 headline: "Setting up Sublime Text for Competitive Coding"
 modified: 2017-03-26 14:40:42 +0530
-category: personal
-tags: []
+category: 'Development Tips'
+tags: [tutorial, 'sublime text', 'competitive coding']
 feature-img: "img/post/sublime-text/featured_img.png"
 author: Nikhil Kumar Singh
 mathjax: 

@@ -4,7 +4,7 @@ title: "Facebook Messenger Bot Tutorial"
 description: "Creating a FB Messenger Bot using Python"
 headline: "Facebook Messenger Bot Tutorial"
 modified: 2017-03-23 00:05:03 +0530
-category: [web]
+category: [Web, Python]
 tags: [web, chatbot, messnger]
 feature-img: "img/post/fb-messenger-bot/featured_img.png"
 author: Nikhil Kumar Singh
