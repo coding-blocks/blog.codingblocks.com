@@ -19,12 +19,12 @@ It always important to think in terms of prerequisites whenever trying to learn 
 
 So the list is not too big.
 
-1. **Mathematics** - Not differential calculus or anything, but the basics should be good.
+ 1. **Mathematics** - Not differential calculus or anything, but the basics should be good.
     Quadratic and linear equations should not be a problem for you.
     You should be able to see _the math behind it_ when you look at most daily problems -
     like how to shop groceries for an impending house party.
 
-2. **Boolean Algebra and Binary** - Try to get a good understanding of
+ 2. **Boolean Algebra and Binary** - Try to get a good understanding of
     thinking in binary - in YES and NO. In true and false. Wrap your
     head around how decisions are taken. Every choice we make is a
     binary one.
@@ -32,7 +32,7 @@ So the list is not too big.
    which expands on this idea.
    Also practice converting decimal numbers to binary and back, to get a grip on the binary number system.
 
-3. **How Computers Work** - There are many places to read up on
+ 3. **How Computers Work** - There are many places to read up on
     this. If not clearly, but get a foggy idea of what
     _processing, storage_ etc terms mean.
     What can a computer do and what I can’t.
