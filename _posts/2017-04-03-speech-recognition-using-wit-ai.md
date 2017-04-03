@@ -40,22 +40,16 @@ For this purpose, we will be using **[PyAudio](https://people.csail.mit.edu/hube
 
 #### Installations
 
-- **Windows**
-
-  Just install **PyAudio** module using a simple pip command:
+- **Windows**: Just install **PyAudio** module using a simple pip command:
   ```
   pip install pyaudio
   ```
-- **MAC OS X**
-
-  Install **portaudio** library using Homebrew and then install **PyAudio** module using pip:
+- **MAC OS X**: Install **portaudio** library using Homebrew and then install **PyAudio** module using pip:
   ```
   brew install portaudio
   pip install pyaudio
   ```
-- **Linux**
-
-  Install **portaudio** library development package using this command:
+- **Linux**: Install **portaudio** library development package using this command:
   ```
   sudo apt-get install portaudio19-dev
   ```
@@ -203,7 +197,7 @@ The POST request must contain:
   The data to be passed is the audio stream in wav format. As you can notice, the recorded audio is saved in a file
   called **myspeech.wav**. We read audio back again form this file using **read_audio** method. 
   
-And we send this HTTP request to this endpoint: https://api.wit.ai/speech
+And we send this HTTP request to this endpoint: [https://api.wit.ai/speech](https://api.wit.ai/speech)
 
 A sample response of HTTP request looks like this:
 ```
