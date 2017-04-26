@@ -7,7 +7,8 @@ modified: 2017-04-27 01:17:09 +0530
 category: ['Development', 'Ruby', 'NodeJS']
 tags: [ruby, rails, nodejs, js, javascript, trends]
 feature-img: "img/post/ruby-or-nodejs/banner.png"
-mathjax: 
+mathjax:
+author: 'Vikas Burman'
 chart: 
 comments: true
 featured: false
@@ -178,4 +179,7 @@ comes to scalability you can't compete with NodeJS. There are companies,
 that switched from Ruby on Rails to NodeJS including Netflix, New York
 Times, PayPal, LinkedIn, Uber, etc. solely for performance and
 scalability reasons.
+
+----
+_This guest post was written by Mr. Vikas Burman, VP of Technology, [Nagarro](http://nagarro.com)_
 
