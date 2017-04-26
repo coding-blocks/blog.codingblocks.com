@@ -51,7 +51,7 @@ Fig. 1 Ruby vs NodeJS (all time)
 
 Source: [modulecounts.com](http://www.modulecounts.com/)
 
-<img src="/img/post/ruby-or-nodejs/image1.tiff" width="601" height="382" />
+<img src="/img/post/ruby-or-nodejs/image1.png" width="601" height="382" />
 
 Fig. 2 Ruby vs NodeJS (May 2016 - Apr 2017)
 
@@ -70,7 +70,7 @@ and “Ruby” gives the view which somewhere confirms the popularity of
 NodeJS over Ruby in recent years, but again this is not a reflection of
 one being good or bad.
 
-<img src="/img/post/ruby-or-nodejs/image2.tiff" width="601" height="151" />
+<img src="/img/post/ruby-or-nodejs/image2.png" width="601" height="151" />
 
 <img src="/img/post/ruby-or-nodejs/image3.png" width="53" height="17" /><img src="/img/post/ruby-or-nodejs/image4.png" width="72" height="22" />
 
