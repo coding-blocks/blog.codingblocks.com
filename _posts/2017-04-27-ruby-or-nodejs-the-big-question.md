@@ -6,7 +6,7 @@ headline: "The pertinent question of Ruby vs Nodejs"
 modified: 2017-04-27 01:17:09 +0530
 category: ['Development', 'Ruby', 'NodeJS']
 tags: [ruby, rails, nodejs, js, javascript, trends]
-feature-img: "img/post/ruby-or-nodejs/node-ruby-modules.png"
+feature-img: "img/post/ruby-or-nodejs/banner.png"
 mathjax: 
 chart: 
 comments: true
