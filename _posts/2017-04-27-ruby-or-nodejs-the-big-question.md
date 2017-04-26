@@ -45,9 +45,11 @@ platform as such. A quick comparison of modules’ count on
 sense that NodeJS is really picking up since 2015 onwards and last year
 has really been a NodeJS one from these data points.
 
+<center>
 <img src="/img/post/ruby-or-nodejs/node-ruby-modules.png" width="601" height="382" />
 
 Fig. 1 Ruby vs NodeJS (all time)
+</center>
 
 Source: [modulecounts.com](http://www.modulecounts.com/)
 
