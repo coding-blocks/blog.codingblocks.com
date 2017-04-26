@@ -9,7 +9,7 @@
 	<meta content="Coding Blocks Blog" property="og:site_name">
 
 	{% if page.feature-img %}
-		<meta content="/{{ page.feature-img }}" property="og:image">
+		<meta content="{{site.url}}/{{ page.feature-img }}" property="og:image">
 	{% endif %}
 
 	{% if page.date %}
