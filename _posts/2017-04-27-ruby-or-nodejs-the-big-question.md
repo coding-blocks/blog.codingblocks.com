@@ -47,7 +47,7 @@ has really been a NodeJS one from these data points.
 
 <p style="text-align: center;" align="center">
 <img src="/img/post/ruby-or-nodejs/node-ruby-modules.png" width="601" height="382" />
-
+<br>
 Fig. 1 Ruby vs NodeJS (all time)
 </p>
 
@@ -55,7 +55,7 @@ Source: [modulecounts.com](http://www.modulecounts.com/)
 
 <p style="text-align: center;" align="center">
 <img src="/img/post/ruby-or-nodejs/image1.png" width="601" height="382" />
-
+<br>
 Fig. 2 Ruby vs NodeJS (May 2016 - Apr 2017)
 </p>
 
@@ -78,7 +78,7 @@ one being good or bad.
 <img src="/img/post/ruby-or-nodejs/image2.png" width="601" height="151" />
 
 <img src="/img/post/ruby-or-nodejs/image3.png" width="53" height="17" /><img src="/img/post/ruby-or-nodejs/image4.png" width="72" height="22" />
-
+<br>
 Fig. 3 Ruby vs NodeJS – Google Trends (2012 onwards)
 </p>
 
