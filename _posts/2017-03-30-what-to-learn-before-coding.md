@@ -7,7 +7,8 @@ modified: 2017-03-30 14:40:19 +0530
 category: [Tutorial, 'Development Tips']
 tags: [learning, coding, development]
 feature-img: 
-mathjax: 
+mathjax:
+author: Arnav Gupta
 chart: 
 comments: true
 featured: false
