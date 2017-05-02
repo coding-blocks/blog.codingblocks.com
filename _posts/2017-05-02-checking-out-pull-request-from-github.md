@@ -12,10 +12,10 @@ chart:
 comments: true
 featured: false
 ---
-# Checking out Github pull requests before merging them
-
+<center>
 ![](https://cdn-images-1.medium.com/max/1600/1*ubVyD2GaOAlSfqRNbL0Bjg.png)
-<span class="figcaption_hack">How pull requests work on Github (from — gitcolony.com)</span>
+<small class="figcaption_hack">How pull requests work on Github (from — gitcolony.com)</span>
+</center>
 
 So your repository got a PR from a enthusiastic developer. You don’t want to
 merge it before testing it out yourself locally on your dev machine. How do you
