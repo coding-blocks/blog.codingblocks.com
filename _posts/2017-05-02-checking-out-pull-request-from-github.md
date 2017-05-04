@@ -12,16 +12,15 @@ chart:
 comments: true
 featured: false
 ---
-<p align="center">
-<img src="https://cdn-images-1.medium.com/max/1600/1*ubVyD2GaOAlSfqRNbL0Bjg.png">
-
-<small class="figcaption_hack">How pull requests work on Github (from — gitcolony.com)</span>
-</p>
-
-
 So your repository got a PR from a enthusiastic developer. You don’t want to
 merge it before testing it out yourself locally on your dev machine. How do you
 go about it ?
+
+<img align="center" src="https://cdn-images-1.medium.com/max/1600/1*ubVyD2GaOAlSfqRNbL0Bjg.png">
+
+<small align="center" class="figcaption_hack">How pull requests work on Github (from — gitcolony.com)</span>
+
+
 
 The pull request is available on this git ref `pull/{*ID}*/head` which you can
 fetch using this, where ID is the pull request id.
