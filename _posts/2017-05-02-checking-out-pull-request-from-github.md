@@ -12,11 +12,11 @@ chart:
 comments: true
 featured: false
 ---
-<center>
+<p align="center">
 <img src="https://cdn-images-1.medium.com/max/1600/1*ubVyD2GaOAlSfqRNbL0Bjg.png">
 
 <small class="figcaption_hack">How pull requests work on Github (from — gitcolony.com)</span>
-</center>
+</p>
 
 
 So your repository got a PR from a enthusiastic developer. You don’t want to
