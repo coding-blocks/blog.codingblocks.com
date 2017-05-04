@@ -13,9 +13,11 @@ comments: true
 featured: false
 ---
 <center>
-![](https://cdn-images-1.medium.com/max/1600/1*ubVyD2GaOAlSfqRNbL0Bjg.png)
+<img src="https://cdn-images-1.medium.com/max/1600/1*ubVyD2GaOAlSfqRNbL0Bjg.png">
+
 <small class="figcaption_hack">How pull requests work on Github (from — gitcolony.com)</span>
 </center>
+
 
 So your repository got a PR from a enthusiastic developer. You don’t want to
 merge it before testing it out yourself locally on your dev machine. How do you
