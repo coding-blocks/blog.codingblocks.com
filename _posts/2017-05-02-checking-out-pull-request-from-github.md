@@ -25,14 +25,18 @@ go about it ?
 
 The pull request is available on this git ref `pull/{*ID}*/head` which you can
 fetch using this, where ID is the pull request id.
-
+```
     git fetch origin pull/
     /head && git checkout FETCH_HEAD
+```
+
 
 Or, if you only want to cherry pick it, instead of checking it out, you can use
 
+```
     git fetch origin pull/
     /head && git cherry-pick FETCH_HEAD
+```
 
 <br>
 
