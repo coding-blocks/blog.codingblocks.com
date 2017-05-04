@@ -18,7 +18,7 @@ go about it ?
 
 <center>
 <img src="https://cdn-images-1.medium.com/max/1600/1*ubVyD2GaOAlSfqRNbL0Bjg.png">
-
+<br>
 <small align="center" class="figcaption_hack">How pull requests work on Github (from — gitcolony.com)</small>
 </center>
 
