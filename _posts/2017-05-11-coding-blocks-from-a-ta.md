@@ -36,7 +36,7 @@ Apart from working hard we had loads of fun also. Whole coding blocks family wen
 
 ![Movie Outing With Coding Blocks Family][im]
 
-[im]: /img/post/ta-experience/movie-outing "Movie Outing With Coding Blocks Family"
+[im]: /img/post/ta-experience/movie-outing.png "Movie Outing With Coding Blocks Family"
 
 ![With the Legends][im1]
 
