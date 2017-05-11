@@ -8,7 +8,8 @@ category: Git
 tags: [github, git, pull, checkout]
 feature-img: img/post/github-pr/pr.png
 mathjax: 
-chart: 
+chart:
+author: Arnav Gupta
 comments: true
 featured: false
 ---
