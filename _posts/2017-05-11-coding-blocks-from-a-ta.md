@@ -34,11 +34,15 @@ It’s also interesting to be on the “other” side of a class, because it’s
 
 Apart from working hard we had loads of fun also. Whole coding blocks family went to an outing to watch Fast and Furious 8. I got to meet and work with many brilliant minds. At Coding Blocks most of the Instructors and even TA’s are Gsoc’ers or are working in great startups and  companies. I got to make some real connections and friends at Coding Blocks. I think one of the things which make coding blocks great is the warm and friendly nature of everyone working here.
 
-![Movie Outing With Coding Blocks Family][im]
+<center>
+<img src="/img/post/ta-experience/movie-outing.png">
+<br>
+<small>Movie Outing With Coding Blocks Family</small>
+</center>
 
-[im]: /img/post/ta-experience/movie-outing.png "Movie Outing With Coding Blocks Family"
-
-![With the Legends][im1]
-
-[im1]:  /img/post/ta-experience/legends.png "Me(on the left) With Prateek Narang (Instructor) and Piyush Narang (Another TA)"
+<center>
+<img src="/img/post/ta-experience/legends.png">
+<br>
+<small>Me(on the left) With Prateek Narang (Instructor) and Piyush Narang (Another TA)</small>
+</center>
 
