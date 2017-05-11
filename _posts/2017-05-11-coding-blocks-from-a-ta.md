@@ -6,7 +6,7 @@ headline: "The experience of a TA at Coding Blocks"
 modified: 2017-05-11 04:10:09 +0530
 category: ['Launchpad', 'TA', 'Experience']
 tags: [launchpad, experience]
-feature-img: ""
+feature-img: "img/post/ta-experience/movie-outing.png"
 mathjax:
 author: 'Siddharth Dungarwal'
 chart: 
