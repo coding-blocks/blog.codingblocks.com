@@ -17,11 +17,11 @@ featured: false
 I had my first Teaching Experience at Coding Blocks when I TA’ed For the LaunchPad course -- The course I wished I had taken while I was learning to program. I was TA’ing a class with around 50 students. 
 
 As a TA my responsibilities included:
-* Helping Students to learn.
-* Preparing Assignment Questions
-* Figuring out tricky-test cases
-* Solving their doubts.
-* Helping to solve more & more questions
+* _Helping Students to learn._
+* _Preparing Assignment Questions_
+* _Figuring out tricky-test cases_
+* _Solving their doubts._
+* _Helping to solve more & more questions_
 
 Here are some skills that I gained from Being a TA:
 * **Building Confidence** - It made me a more confident person than I ever was and now I can do a presentation with almost no stage fear at all.
