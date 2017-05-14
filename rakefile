@@ -39,8 +39,6 @@ end
      post.puts "chart: "
      post.puts "comments: true"
      post.puts "featured: false"
-     post.puts "sitemap:"
-     post.puts "  include: "
      post.puts "---"
    end
   end
@@ -67,6 +65,8 @@ end
      post.puts "chart: "
      post.puts "comments: true"
      post.puts "author: "
+     post.puts "sitemap:"
+     post.puts "  include: "
      post.puts "---"
    end
 end
