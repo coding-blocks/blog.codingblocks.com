@@ -24,6 +24,11 @@ There is a rake task for this as well -
 ```
 rake new_page["Title of Page"]
 ```
+Set `page.sitemap.include` to `'yes'`, to include the page in sitemap.
+```
+sitemap:
+  include: 'yes'
+```
 
 
 
