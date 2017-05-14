@@ -4,6 +4,8 @@ short_title: About
 title: About Coding Blocks
 permalink: /about/
 feature-img: "img/code_banner.png"
+sitemap:
+  include: 'yes'
 ---
 
 **Coding Blocks** is a Software Development Bootcamp located in New Delhi.
