@@ -65,6 +65,8 @@ end
      post.puts "chart: "
      post.puts "comments: true"
      post.puts "author: "
+     post.puts "sitemap:"
+     post.puts "  include: "
      post.puts "---"
    end
 end
