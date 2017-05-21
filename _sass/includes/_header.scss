@@ -51,6 +51,7 @@
     }
   }
 }
+
 .page-link {
   padding: 3px 6px;
   border: $header-link-color solid 1px;
@@ -60,4 +61,13 @@
 .page-link:hover {
   background-color: $header-link-color;
   color: white;
+}
+@media (min-width: 1024px) {
+  .site-header {
+    position: fixed;
+    height: 115px;
+  }
+  .call-out{
+    margin-top: 115px;
+  }
 }
