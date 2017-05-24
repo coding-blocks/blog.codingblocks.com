@@ -1,5 +1,5 @@
 .site-header {
-  @extend %padding-small;
+  @extend %padding-tiny;
   background: $brand-color;
   border-bottom: 1px solid $border-color;
   display: inline-block;
@@ -65,9 +65,13 @@
 @media (min-width: 1024px) {
   .site-header {
     position: fixed;
-    height: 115px;
+    top: 0;
   }
   .call-out{
-    margin-top: 115px;
+    margin-top: 60px;
   }
+}
+
+.content {
+  margin-top: 70px;
 }

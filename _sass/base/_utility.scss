@@ -5,6 +5,12 @@
     padding: $padding-x-small $padding-x-small;
   }
 }
+%padding-tiny {
+  padding: $padding-xx-small $padding-xx-small * 2;
+  @media (max-width: 1000px) {
+    padding: $padding-xx-small $padding-xx-small;
+  }
+}
 %padding-regular {
   padding: $padding-small $padding-large;
   @media (max-width: 1000px) {
