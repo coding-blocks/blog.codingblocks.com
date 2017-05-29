@@ -4,7 +4,7 @@ title: "CODING BLOCKS : From A TA’s Perspective"
 description: "What a TA has to say about coding blocks ? "
 headline: "The experience of a TA at Coding Blocks"
 modified: 2017-05-11 04:10:09 +0530
-category: ['Launchpad', 'TA', 'Experience']
+category: ['Internship', 'Experience']
 tags: [launchpad, experience]
 feature-img: "img/post/ta-experience/legends.png"
 mathjax:
