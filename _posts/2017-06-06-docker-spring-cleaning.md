@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Docker Spring Cleaning"
-description: Cleaning your unused Docker data
+description: "Over the course of development, Docker cache tends to take over a huge chunk of your hard drive. While not always an issue, sometimes it may lead to Docker builds failing because you're out of disk. Prajjwal Singh explains how to quickly get rid of it."
 headline: Docker Spring Cleaning
 modified: 2017-06-06 20:33:22 +0530
 category: Engineering
