@@ -3,6 +3,7 @@ layout: post
 title: How To Manage and Use Dependencies in your Ember Addon
 description: Managing dependencies can be quite confusing, especially in your first Ember Addon. This aims to be a clear tutorial on how to do handle it gracefully.
 modified: 2017-06-14 12:13:12 +0530
+feature-img: img/post/ember/banner.jpg
 category: [Tutorial]
 tags: [EmberJS, JavaScript]
 author: Abhishek Gupta
