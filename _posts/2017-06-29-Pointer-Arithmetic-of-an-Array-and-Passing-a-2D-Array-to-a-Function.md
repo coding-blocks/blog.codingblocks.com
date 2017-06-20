@@ -96,7 +96,7 @@ For 2-D array,
 B[i][j] = *(B[i] + j) = *(*(B+i) + j) 
 
 Now passing  a two-dimensional array into a function:
-``` 
+``` cpp
 void myfunction(int **A ,int i, int j)
 {
   cout<<A[0][2];
