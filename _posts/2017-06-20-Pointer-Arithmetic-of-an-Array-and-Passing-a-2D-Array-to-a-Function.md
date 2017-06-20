@@ -106,7 +106,7 @@ void myfunction(int **A ,int i, int j)
 
 int main()
 {
-  A[2][3] = {{1,2,3},{4,5,6}};
+  A[2][3] = { {1,2,3},{4,5,6} };
 
   myfunction(A,2,3);
 }
