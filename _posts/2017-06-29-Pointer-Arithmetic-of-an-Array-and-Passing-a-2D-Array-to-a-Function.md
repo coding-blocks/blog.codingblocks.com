@@ -22,8 +22,9 @@ For example, let an array:
                                  200    204     208    212     216         -> these are the address of the memory of the array. As it is an integer array each element has a storage of 4 bytes.
 
 To declare a pointer to a one-dimensional array we simply write:
- 
+ ```cpp
     int *ptr = A; 
+```  
 this pointer ptr points to the starting block of the array A. Also, the name of the array i.e A just returns a pointer to the first element of the array.
 With the pointer declared we can use pointer arithmetic and dereferencing to access the address and elements of the array.
 for example,
@@ -37,12 +38,12 @@ print (ptr +2)  = 208
 
 The language flexibility allows us to use the name of the array as a pointer. Therefore instead of using ptr we can directly use A.
 i.e ,
-
+``` 
 print A = 200
 print *A = 3
 print *(A+2) = 5
 print A+2 = 208
-
+``` 
 in short,
 *(A+i) is same as A[i]
 and (A+i) is same as &A[i]
@@ -50,7 +51,7 @@ and (A+i) is same as &A[i]
 Therefore, ptr = A  but A != ptr .
 
 we can pass a one-dimensional array  in a function as follows:
-
+``` cpp
 void myfunction (int *arr)
 {
        int n = arr.size();
@@ -62,7 +63,7 @@ int main()
    int arr = {1,2,3,4,5,6};
    myfunction(arr);
 }
-
+``` 
 We can do the same thing in a multi-dimensional array. What does it mean when we say multi-dimensional array? A multi-dimensional array is an array of array.
  Let's talk about the two-dimensional array:
 
@@ -95,7 +96,7 @@ For 2-D array,
 B[i][j] = *(B[i] + j) = *(*(B+i) + j) 
 
 Now passing  a two-dimensional array into a function:
-
+``` 
 void myfunction(int **A ,int i, int j)
 {
   cout<<A[0][2];
@@ -107,5 +108,6 @@ int main()
 
   myfunction(A,2,3);
 }
+``` 
  we can also return a 2-D array from a function by just changing the return type to:
  int **  (if it's a 2D- array of integers)
