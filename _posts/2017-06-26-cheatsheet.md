@@ -13,13 +13,13 @@ chart:
 comments: true
 featured: true
 ---
-Ever wanted to build some interactive applications in terminal using C; games like  Snake & Ladder, tetris and many more or programms like text-editor or even add interactivity to simple terminal programs?
+Have you ever wanted to build interactive applications in terminal using C - games like Snakes and Ladders or Tetris and  programs like a text editor -  or just wanted to add interactivity to simple terminal programs?
 
-If your answer is yes, then next 1200 words are a must read for you. 
+If your answer is yes, then the next 1200 words are a must read for you.
 
-If you ever worked on Turbo C++ (a 1980s stuff) and built some graphic application to bring colors and shapes to your program, you must have used graphics.h library. grahics.h is not a standard C/C++ library, it was only introduced by Borland and came inbuilt with their complier. 
+If you have ever worked on Turbo C++ (a thing of ancient times) and built a graphic application to bring colors and shapes to your program, you must have used the graphics.h library. graphics.h is not a standard C/C++ library, it was introduced by Borland and came inbuilt with their compiler.
 
-As graphics.h is not supported by any other complier we will use a library developed by GNU: Ncurses, to port interactivity to terminal. 
+As graphics.h is not supported by any other compiler we will use a library developed by GNU to port interactivity to the terminal - Ncurses 
 
 ## Ncurses Features  
 Ncurses is capable of building up UIs like BIOS interface, where there are multiple windows, menus and colors.
