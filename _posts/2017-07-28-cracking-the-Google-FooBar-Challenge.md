@@ -12,10 +12,11 @@ The message reads like this
 ##### You are speaking our language. Up for a challenge.
 
 In my case, it didn't go the traditional way. During the ICC matches a few months ago, Google had updated their doodle with a small cricket game with players as ants.
-Just out of curiosity, I went on for inspecting the page, when suddenly there was a comment under a <li> tag.
+Just out of curiosity, I went on for inspecting the page, when suddenly there was a comment under a 'li' tag.
 
 "Up for a challenge. You are invited". And there was a link and I opened it and it redirected me to a new page 'Foo.bar'
 
+![](https://raw.githubusercontent.com/prateekiiest/blog.codingblocks.com/patch-2/img/post/Google_foobar/Screenshot%202017-07-28%2020.46.16.png)
 
 Its kind of like a linux console where you get to solve the problems one by one upon opening a new problem directory.
 
@@ -26,7 +27,7 @@ But it was really a great experience so far.
 The first few levels were relatively easy, but as the levels peaked up, the difficulty gained heights.
 
 Currently I am on level 4 and just have one more label to go.
-
+![](https://raw.githubusercontent.com/prateekiiest/blog.codingblocks.com/patch-2/img/post/Google_foobar/Screenshot%202017-07-28%2020.46.27.png)
 
 
 
@@ -38,4 +39,7 @@ I don't know about the future upcomimgs for this, but to be honest I really enjo
 Looking forward to solve more.
 
 
+### Note
+
+Its really great to get such an opportunity. So 'Always keep looking for more. Be Curious!'
 
