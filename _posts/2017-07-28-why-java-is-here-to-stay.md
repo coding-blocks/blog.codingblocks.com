@@ -6,6 +6,7 @@ headline: "Why Java is here to Stay"
 modified: 2017-07-28 12:13:12 +0530
 category: [Opinion]
 tags: [Java, SoftwareEngineering]
+author: Abhishek Gupta
 mathjax:
 chart:
 comments: true
