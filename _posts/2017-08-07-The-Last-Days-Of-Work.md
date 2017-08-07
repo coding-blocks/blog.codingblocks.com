@@ -25,7 +25,7 @@ To all the mentors and contributors, this week is the last week with BOSS, yes y
 
 The three-month long program is finally coming to its end :(. It's being the great journey with BOSS and I have been amazed and humbled by the efforts being put in by mentors in guiding us throughout the program and also to the contributors for making this program a success.
 
-I will take many fond memories from the program and hope that the other contributors feel the same.
+I will take many fond memories from the program and hope that the other contributors feel the same.<br/>
 The flexibility of choosing any project for contribution at any time and also no timeline constraint makes BOSS program unique and great from other such programs.
 
 My start at BOSS was incredible since I felt a lot the ownership for my work. Facing challenges such as learning new frameworks or understanding the documentation have ultimately been positive experiences -- this makes me feel more and more like a developer. Please have a look at my previous [blog](http://blog.codingblocks.com/2017/beginning-with-open-source) for reading about my Beginning Experience with BOSS.
@@ -36,6 +36,6 @@ I want to end my blog by writing the key rule for contribution in OpenSource : "
 
 Once more I would like to thank BOSS program for making my summer productive and great.
 
-Cheers to all the mentors and contributors.
-Congratulations to all the winners of the program in advance.
+Cheers to all the mentors and contributors.<br/>
+Congratulations to all the winners of the program in advance.<br/>
 BOSS, see you again soon next Summer :).
