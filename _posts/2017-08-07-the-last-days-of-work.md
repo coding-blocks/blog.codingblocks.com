@@ -13,7 +13,6 @@ comments: true
 featured: false
 ---
 
-
 Hello, Everyone! 
 
 I am Arushi Singhal. BTech Undergraduate student at International Institute of Information Technology, Hyderabad.
@@ -29,7 +28,7 @@ My start at BOSS was incredible since I felt a lot the ownership for my work. Fa
 
 I would like to thank BOSS for giving Indian developers this opportunity to get experienced with Open source and become contributors. With BOSS I experienced different-different phases of development from designing logos for software, finding bugs, to write code. BOSS gave me chance to develop my skills in every phase of development.
 
-I want to end my blog by writing the key rule for contribution in OpenSource : "Don’t get disappointed or feel dejected if your pull request is not merged at once, it opens up the gate to learning when you work through the suggestions provided by the mentors as they know how the pull request can be improved."
+I want to end my blog by writing the key rule for contribution in OpenSource: "Don’t get disappointed or feel dejected if your pull request is not merged at once, it opens up the gate to learning when you work through the suggestions provided by the mentors as they know how the pull request can be improved."
 
 Once more I would like to thank BOSS program for making my summer productive and great.
 
