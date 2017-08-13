@@ -3,18 +3,18 @@ layout: post
 title: "The Last Week with BOSS"
 description: "The Last Week with BOSS"
 headline: "The Last Week with BOSS"
-modified: 2017-08-07 18:40:10 +0530 
-category: [OpenSource]
-tags: [BOSS, OpenSource, Contribution]
-chart:
+modified: 2017-08-07 12:13:12 +0530
+category: [Experience]
+tags: [OpenSource, SoftwareEngineering]
 author: Arushi Singhal
+mathjax:
+chart:
 comments: true
 featured: false
 ---
 
-## Last Week With BOSS  
 
-Hello, Everyone!!!!! 
+Hello, Everyone! 
 
 I am Arushi Singhal. BTech Undergraduate student at International Institute of Information Technology, Hyderabad.
 
@@ -36,4 +36,3 @@ Once more I would like to thank BOSS program for making my summer productive and
 Cheers to all the mentors and contributors.<br/>
 Congratulations to all the winners of the program in advance.<br/>
 BOSS, see you again soon next Summer :). 
-
