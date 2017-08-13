@@ -1,15 +1,13 @@
 ---
 layout: post
-title: The Last Week with BOSS
-description:
-headline:
+title: "The Last Week with BOSS"
+description: "The Last Week with BOSS"
+headline: "The Last Week with BOSS"
 modified: 2017-08-07 18:40:10 +0530 
-category: ['Blog', 'Open Source']
+category: [Open Source]
 tags: [BOSS, Open Source, Contribution]
-feature-img:
-mathjax:
 chart:
-author: 'Arushi Singhal'
+author: "Arushi Singhal"
 comments: true
 featured: false
 ---
