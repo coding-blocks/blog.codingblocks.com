@@ -4,16 +4,15 @@ title: "The Last Week with BOSS"
 description: "The Last Week with BOSS"
 headline: "The Last Week with BOSS"
 modified: 2017-08-07 18:40:10 +0530 
-category: [Open Source]
-tags: [BOSS, Open Source, Contribution]
+category: [OpenSource]
+tags: [BOSS, OpenSource, Contribution]
 chart:
-author: "Arushi Singhal"
+author: Arushi Singhal
 comments: true
 featured: false
 ---
 
-
-## Last Week With BOSS
+## Last Week With BOSS  
 
 Hello, Everyone!!!!! 
 
@@ -36,4 +35,5 @@ Once more I would like to thank BOSS program for making my summer productive and
 
 Cheers to all the mentors and contributors.<br/>
 Congratulations to all the winners of the program in advance.<br/>
-BOSS, see you again soon next Summer :).
+BOSS, see you again soon next Summer :). 
+
