@@ -73,9 +73,9 @@ permalink: :year/:title
 
 # BUILD SETTINGS
 markdown: kramdown
-highlighter: rouge
+#highlighter: rouge
 sass:
   sass_dir: _sass
   style: :compressed
 plugins:
- - jekyll-paginate
+  - jekyll-paginate
