@@ -75,7 +75,7 @@ module.exports = {
     //app.import(app.bowerDirectory + '<path to dependency>.js');
   },
   contentFor(type,config){
-    // type can anything like 'head' 'body' etc.. look for {{content-for '<typename>' }} in index.html
+    // type can anything like 'head' 'body' etc.. look for { { content-for '<typename>' } } in index.html
     if(type=='head')
     {
       // bonus!, you can add CDN requests here to load files from CDN, 
