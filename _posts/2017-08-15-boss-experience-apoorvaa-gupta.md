@@ -14,8 +14,6 @@ comments: true
 featured: false
 ---
 
-## BOSS Experience
-
 Hi everyone,
 I am Apoorvaa Gupta, studying in Netaji Subhas Institute of Technology. 
 

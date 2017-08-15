@@ -14,7 +14,6 @@ featured: false
 ---
 
 Hello, Everyone! 
-
 I am Arushi Singhal. BTech Undergraduate student at International Institute of Information Technology, Hyderabad.
 
 To all the mentors and contributors, this week is the last week with BOSS, yes you heard it right, the very last week of the program.

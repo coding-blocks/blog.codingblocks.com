@@ -1,4 +1,17 @@
-## The Google FooBar Challenge
+---
+layout: post
+title: "Cracking the Google Foobar challenge"
+description: "Cracking the Google Foobar challenge"
+headline: "Cracking the Google Foobar challenge"
+modified: 2017-07-28 12:13:12 +0530
+category: [Experience]
+tags: [Algorithms, Google, Foobar]
+author: Prateek Chanda
+mathjax:
+chart:
+comments: true
+featured: false
+---
 
 The Google Foo bar challenge has been known for the last 5 years or more as a secret process of hiring developers and programmers all over the world.
 It is a secret process and the challenge consists of coding challenges of increasing difficulty as you go along.
