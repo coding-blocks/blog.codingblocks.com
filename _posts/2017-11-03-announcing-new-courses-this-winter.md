@@ -98,6 +98,8 @@ To address the demand of only basics of programming language, and not letting th
 |-----------------	|-------------	|----------	|
 | 10              	| Rs. 8,000   	| 4 weeks  	| 
 
+This programme will be conducted by _**Anuj Garg**_, who has been a GSOC mentor and is now a Google Code-in org-admin for JBOSS.
+
 <br>
 - - - - - - -  - - - - 
 -  - - - - - - - - - -   
