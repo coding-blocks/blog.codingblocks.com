@@ -32,24 +32,42 @@ I am really pleased to announce the following new programmes being launched from
 
 We, for long, had two programmes for beginners to start with programming - one using C++ and another using Java. While it is a good idea to learn programming using one of those two languages, Python is among the most popular languages, and is seeing an increasing number of applications in cutting edge fields like Machine Learning and Data Science. Keeping that in mind, we are starting a Certification programme in Python, that is suitable for people who have very little prior programming experience. 
 
-Following are the topics that will be covered in this programme
+The programme has been divided into 4 modules:
 
- - Python Complete Language Syntax
- - Object Oriented Programming in Python
- - Mathematical Operations and Matrices in Python
- - Web Development Basics in Python and consuming APIs
- - Storing and accessing data using MongoDB
- - Web testing and automation using Selenium
- - Basics of Natural Language Processing in Python
- - Building chatbots for Facebook / Alexa 
- - Adding intelligence to bots using api.ai and wit.ai
+1. Basics of Python
+
+- Why Python?
+- Basic syntax and data containers
+- Object oriented programming
+
+2. Intermediate Python
+
+- Overview of common python modules and some advanced functions
+- Working with files (txt/pdf/csv/xml/zip/json)
+- CLI programming using Python
+- Desktop GUI development using Python
+- Multithreading and multiprocessing in Python
+
+
+3. Python for web
+
+- Consuming APIs
+- Web scraping and crawling
+- Web automation using Selenium
+
+4. Chatbot development using Python
+
+- Creating a messenger chatbot using Python
+- Adding intelligence to bots using api.ai
+- Storing and accessing data using MongoDB
+- Heroku deployment
 
 | No of. Lectures 	| Course Fees 	| Duration 	|
 |-----------------	|-------------	|----------	|
 | 10              	| Rs. 10,000  	| 4 weeks  	|  
 
 
-This programme will be conducted by _**Nikhil**_, who is famous on the internet by the name of _**IndianPythonista**_, and has a well known [Youtube Channel](https://www.youtube.com/channel/UCkUq-s6z57uJFUFBvZIVTyg) and [Blog](https://indianpythonista.wordpress.com/)
+This programme will be conducted by _**Nikhil**_, who is famous on the internet by the name of _**IndianPythonista**_, and has a well known [Youtube Channel](https://www.youtube.com/IndianPythonista) and [Blog](https://indianpythonista.wordpress.com/)
 
 <br>
  - - - - - - - - -
