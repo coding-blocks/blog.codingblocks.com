@@ -40,11 +40,15 @@ Following are the topics that will be covered in this programme
 
 | No of. Lectures 	| Course Fees 	| Duration 	|
 |-----------------	|-------------	|----------	|
-| 10              	| Rs. 10,000  	| 4 weeks  	| 
+| 10              	| Rs. 10,000  	| 4 weeks  	|  
+
 
 This programme will be conducted by _**Nikhil**_, who is famous on the internet by the name of _**IndianPythonista**_, and has a well known [Youtube Channel](https://www.youtube.com/channel/UCkUq-s6z57uJFUFBvZIVTyg) and [Blog](https://indianpythonista.wordpress.com/)
 
  - - - - - - - - -
+ - - - - - - - - - 
+
+
 
 Since the inception of Coding Blocks, the two oldest courses we have been running are **Launchpad** (Programming Fundamentals in C++) and **CRUX** (Programming Fundamentals in Java).
 These two are our _flagship_ courses, so to speak, attracting the maximum number of students, and also being the best reviewed.
@@ -68,7 +72,9 @@ To address the demand of only basics of programming language, and not letting th
 
 | No of. Lectures 	| Course Fees 	| Duration 	|
 |-----------------	|-------------	|----------	|
-| 10              	| Rs. 8,000   	| 4 weeks  	| 
+| 10              	| Rs. 8,000   	| 4 weeks  	|  
+
+
 
 ## Java Basic Proficiency Certification -
  - Thinking like a computer, algorithms, flowcharts
@@ -85,7 +91,10 @@ To address the demand of only basics of programming language, and not letting th
 |-----------------	|-------------	|----------	|
 | 10              	| Rs. 8,000   	| 4 weeks  	| 
 
-- - - - - - - 
+- - - - - - -  - - - - 
+-  - - - - - - - - - -   
+
+
 
 Many of the graduates of our _**CRUX**_ (Programming Fundamentals in Java) program had been expressing their desire to learn to build desktop apps and servers using Java. 
 Keeping those demands in mind, we are also having a 8-day bootcamp at our Dwarka Centre this December on _**Java Apps**_ that will cover both desktop apps in Java and Java Web Servers. 
