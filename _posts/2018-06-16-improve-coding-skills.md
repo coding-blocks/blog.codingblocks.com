@@ -13,7 +13,9 @@ author: 'Rishabh Bansal'
 comments: true
 featured: false
 ---
-Whether it is for personal development or career advancements, the ability to play with the computer codes opens up a whopping avenue of opportunities. There’s a lot of buzz about kids wanting to learn how to code lately. Parents have been pushing their kids across the globe for the same. In today’s digital world, coding is a fundamental skill alongside math and reading, but too few kids have the opportunity to learn to program because it is rarely taught in school. Coding allows kids to be creative and builds confidence. It drives innovation. It is really important for a person who is interested in technology to learn how to code and improve their skills. Here are some of the ways that will help you in improving your coding skills along the summer -
+Whether it is for personal development or career advancements, the ability to play with the computer codes opens up a whopping avenue of opportunities. There’s a lot of buzz about kids wanting to learn how to code lately. Parents have been pushing their kids across the globe for the same. In today’s digital world, coding is a fundamental skill alongside math and reading, but too few kids have the opportunity to learn to program because it is rarely taught in school. Coding allows kids to be creative and builds confidence. It drives innovation. It is really important for a person who is interested in technology to learn how to code and improve their skills. 
+
+### Here are some of the ways that will help you in improving your coding skills along the summer -
 
 ## > Choose Wisely!
 
