@@ -31,7 +31,7 @@ But I'm really glad that I held on and I still remember that I thought 'How hard
 
 ##The Good Parts of Open Source
 
-The subtitle is pretty misleading because one might think there are bad parts to Open Source too, but there isn't one. The only bad part about Open Source is that people don't do it enough. I can't count on my fingers or weigh the importance of good practices that Open Source has taught me. From writing a modular code, to cleaning it up, to properly indenting it, to understanding the importance of doing it, to using version control, to properly addressing the issue, to the importance of well documented code and so much more.
+This header can be misleading because one might think there are bad parts to Open Source too, but there isn't one. The only bad part about Open Source is that people don't do it enough. I can't count on my fingers or weigh the importance of good practices that Open Source has taught me. From writing a modular code, to cleaning it up, to properly indenting it, to understanding the importance of doing it, to using version control, to properly addressing the issue, to the importance of well documented code and so much more.
 I feel I really grew as a developer (although I'm still at the very novice level, trust me, I self assess) through this activity because suddenly documentations of frameworks, which seemed like gibberish before, started making a lot more sense. I needed StackOverflow to identify the error in my code a LOT less than before, and was actually able to intuitively join the dots and identify the bugs. These are pretty small considerations, but not insignificant at all. Whatever mildly broken code I am able to write today, is all owed to Open Source.
 
 ##One BOSSy Summer!
