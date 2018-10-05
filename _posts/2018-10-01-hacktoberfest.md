@@ -6,7 +6,7 @@ headline: "Hacktoberfest 2018”
 modified: 2018-10-03 05:18:00 +0530
 category: [web]
 tags: [hacktoberfest, digital ocean, github, coding blocks]
-feature-img: "img/post/google-apis/google_developers_logo.gif"
+feature-img: "img/post/Hacktoberfest/hacktober.jpg"
 author: Varun Malhan
 mathjax: 
 chart: 
