@@ -3,7 +3,7 @@ layout: post
 title: " Hacktoberfest 2018 – Here’s how you can get the freebies while upgrading your resume!"
 description: "Everything you need to know about the Hacktoberfest"
 headline: "Hacktoberfest 2018”
-modified: 2018-10-03 05:18:00 +0530
+modified: 2018-10-01 05:18:00 +0530
 category: [web]
 tags: [hacktoberfest, digital ocean, github, coding blocks]
 feature-img: "img/post/Hacktoberfest/hacktober.jpg"
