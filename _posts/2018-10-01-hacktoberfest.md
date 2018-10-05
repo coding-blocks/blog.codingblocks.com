@@ -1,18 +1,19 @@
 ---
 layout: post
-title: " Hacktoberfest 2018 – Here’s how you can get the freebies while upgrading your resume!"
+title: "Hacktoberfest 2018 – Here’s how you can get the freebies while upgrading your resume!"
 description: "Everything you need to know about the Hacktoberfest"
-headline: "Hacktoberfest 2018”
+headline: "Hacktoberfest 2018"
 modified: 2018-10-01 05:18:00 +0530
-category: [web]
+category: [Web]
 tags: [hacktoberfest, digital ocean, github, coding blocks]
 feature-img: "img/post/Hacktoberfest/hacktober.jpg"
-author: Varun Malhan
-mathjax: 
-chart: 
+author: 'Varun Malhan'
+mathjax:
+chart:
 comments: true
 featured: false
 ---
+
 Every year in October, __*Digital Ocean*__ and __*GitHub*__ team up for an online event which celebrates open-source. Open-Source is one of the most growing areas in development these years. Also, it has made possible for beginners to grow and develop their skills as a programmer/developer. On a brighter side, you get some really cool freebies as well! Let’s talk in detail about this event.
 __*Hacktoberfest*__ is on online open-source contribution event, the event has some maintainers, who are the companies who have their open-source project repos on GitHub. Hacktoberfest is essentially a start for the newbies who are just into coding. Here’s how you can participate in Hacktoberfest –
 First and foremost, you need to register for Hacktoberfest, for that you need a GitHub account, if you don’t have one, chill we’ve got you covered. [Go to this link](https://github.com/join) and create an account for free! 
