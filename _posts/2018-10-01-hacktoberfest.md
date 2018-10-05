@@ -20,6 +20,6 @@ Once your GitHub account is created, you can register for Hacktoberfest [here!](
 First, learn about GitHub and pull requests if you don’t know about them. There are ton of free material about it on the internet. 
 Once, you have learned about pull request and GitHub, you need to make 4 pull requests to any 4 open-source projects. But a word of caution, your pull requests should only have commits by you, also, pull requests reported as spam would not be eligible.
 After you make your pull requests, contribute by finding bugs and remove them and finally pushing them in the repository. Also, you can check your progress on the Hacktoberfest website!
-The event takes in all contributions to any repository on GitHub, also, Hacktoberfest contributions count in your *GSoC application*! So, make sure that you choose your project for the company you want to apply for __*GSoC!*__
+The event takes in all contributions to any repository on GitHub, also, Hacktoberfest contributions count in your __*GSoC application*__! So, make sure that you choose your project for the company you want to apply for __*GSoC!*__
 The event is a great opportunity to grow as a developer and improve your skills, also if you make 4 successful pull requests you are eligible to get a really cool T-Shirt by mail. Even if you aren’t able to successfully do 4 pull requests till __*31st October*__, you are still eligible for some stickers are other cool stuff! 
 If you have any questions, do let us know in the comment section below!
